@@ -1,2 +1,1 @@
-#include<iostream>
-// thanks amazon!! 
+#include<iostream> 
